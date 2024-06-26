@@ -1,0 +1,36 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/klpkw/projects/diploma/ros_ws/build/straight_path",
+        "/home/klpkw/projects/diploma/ros_ws/install/straight_path/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/snake_path",
+        "/home/klpkw/projects/diploma/ros_ws/install/snake_path/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/parking_maneuver",
+        "/home/klpkw/projects/diploma/ros_ws/install/parking_maneuver/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/off_road_terrain",
+        "/home/klpkw/projects/diploma/ros_ws/install/off_road_terrain/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/deer_test",
+        "/home/klpkw/projects/diploma/ros_ws/install/deer_test/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/classic_road_conditions",
+        "/home/klpkw/projects/diploma/ros_ws/install/classic_road_conditions/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/PythonAPI/carla/dist/carla-0.9.14-py3.10-linux-x86_64.egg"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/klpkw/projects/diploma/ros_ws/build/straight_path",
+        "/home/klpkw/projects/diploma/ros_ws/install/straight_path/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/snake_path",
+        "/home/klpkw/projects/diploma/ros_ws/install/snake_path/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/parking_maneuver",
+        "/home/klpkw/projects/diploma/ros_ws/install/parking_maneuver/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/off_road_terrain",
+        "/home/klpkw/projects/diploma/ros_ws/install/off_road_terrain/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/deer_test",
+        "/home/klpkw/projects/diploma/ros_ws/install/deer_test/lib/python3.10/site-packages",
+        "/home/klpkw/projects/diploma/ros_ws/build/classic_road_conditions",
+        "/home/klpkw/projects/diploma/ros_ws/install/classic_road_conditions/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/PythonAPI/carla/dist/carla-0.9.14-py3.10-linux-x86_64.egg"
+    ]
+}
